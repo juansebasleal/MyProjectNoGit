@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572271253807.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4108911373",
+    "id" : "E555087D",
+    "lastKnownWriteTime" : 1572271270,
+    "last_content_update" : 1572271270294,
+    "path" : "~/DataSciencePath/MyProjectNoGit/test.R",
+    "project_path" : "test.R",
+    "properties" : {
+        "cursorPosition" : "0,20",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
